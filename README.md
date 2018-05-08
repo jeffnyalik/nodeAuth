@@ -1,9 +1,13 @@
 *Node js authentication project using JWT token for authentication of a logged in user.
+
 To run the project download and run npm install to install the dependecies.
+
 make sure you have node js installed in your machine
 
 *npm install
+
 *npm install mocha chai --save-dev
+
 *npm install request --save-dev
 
 *I have tested the API Requests using Postman client for chrome.
